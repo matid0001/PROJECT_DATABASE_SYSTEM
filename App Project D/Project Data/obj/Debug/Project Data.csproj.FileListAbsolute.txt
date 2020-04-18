@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Pro\Project Data\Project Data\bin\Debug\Project Data.exe.config
+C:\Users\User\Desktop\Pro\Project Data\Project Data\bin\Debug\Project Data.exe
+C:\Users\User\Desktop\Pro\Project Data\Project Data\bin\Debug\Project Data.pdb
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project_Data.Form1.resources
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project_Data.Form2.resources
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project_Data.Properties.Resources.resources
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.exe
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.pdb
