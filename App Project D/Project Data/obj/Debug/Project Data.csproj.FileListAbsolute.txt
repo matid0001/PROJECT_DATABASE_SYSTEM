@@ -9,3 +9,14 @@ C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.cspro
 C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.exe
 C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\bin\Debug\Project Data.exe.config
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\bin\Debug\Project Data.exe
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\bin\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.Coffee.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.รายการ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.exe
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.pdb
