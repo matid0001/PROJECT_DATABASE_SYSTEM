@@ -1,7 +1,6 @@
 hi
 i am a man
-s
-3
-3
 
-2
+dog
+
+
