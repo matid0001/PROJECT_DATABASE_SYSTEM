@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,6 +52,12 @@
     </Compile>
     <Compile Include="Coffee.Designer.cs">
       <DependentUpon>Coffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,6 +88,9 @@
     <EmbeddedResource Include="Coffee.resx">
       <DependentUpon>Coffee.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -90,8 +100,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ยอดขาย.resx">
+      <DependentUpon>ยอดขาย.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ยืนยันรายการ.resx">
+      <DependentUpon>ยืนยันรายการ.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="รายการ.resx">
       <DependentUpon>รายการ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ใบเสร็จ.resx">
+      <DependentUpon>ใบเสร็จ.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

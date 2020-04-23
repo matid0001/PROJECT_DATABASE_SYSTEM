@@ -34,20 +34,22 @@
             // 
             // button1
             // 
+            this.button1.Font = new System.Drawing.Font("28 Days Later", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(87, 52);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(258, 341);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Meun";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
+            this.button2.Font = new System.Drawing.Font("28 Days Later", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(453, 52);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(258, 341);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "sales";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Coffee

@@ -20,3 +20,7 @@ C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Deb
 C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.exe
 C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.login.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ยอดขาย.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ยืนยันรายการ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ใบเสร็จ.resources
