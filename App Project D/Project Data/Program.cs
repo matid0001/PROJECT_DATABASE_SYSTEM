@@ -16,7 +16,7 @@ namespace Project_Data
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Coffee());
+            Application.Run(new Login());
         }
     }
 }

@@ -10,23 +10,21 @@ using System.Windows.Forms;
 
 namespace Project_Data
 {
-    public partial class Coffee : Form
+    public partial class สมัครสมาชิก : Form
     {
-        public Coffee()
+        public สมัครสมาชิก()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void label6_Click(object sender, EventArgs e)
         {
-            รายการ f2 = new รายการ();
-            f2.Show();
+
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void สมัครสมาชิก_Load(object sender, EventArgs e)
         {
-            ยอดขาย f2 = new ยอดขาย();
-            f2.Show();
+
         }
     }
 }

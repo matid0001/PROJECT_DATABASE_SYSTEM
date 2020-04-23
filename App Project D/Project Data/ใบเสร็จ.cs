@@ -41,5 +41,10 @@ namespace Project_Data
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

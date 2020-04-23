@@ -53,11 +53,11 @@
     <Compile Include="Coffee.Designer.cs">
       <DependentUpon>Coffee.cs</DependentUpon>
     </Compile>
-    <Compile Include="login.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="login.Designer.cs">
-      <DependentUpon>login.cs</DependentUpon>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -79,6 +79,18 @@
     <Compile Include="รายการ.Designer.cs">
       <DependentUpon>รายการ.cs</DependentUpon>
     </Compile>
+    <Compile Include="ลืมรหัสผ่าน.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ลืมรหัสผ่าน.Designer.cs">
+      <DependentUpon>ลืมรหัสผ่าน.cs</DependentUpon>
+    </Compile>
+    <Compile Include="สมัครสมาชิก.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="สมัครสมาชิก.Designer.cs">
+      <DependentUpon>สมัครสมาชิก.cs</DependentUpon>
+    </Compile>
     <Compile Include="ใบเสร็จ.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,8 +100,8 @@
     <EmbeddedResource Include="Coffee.resx">
       <DependentUpon>Coffee.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="login.resx">
-      <DependentUpon>login.cs</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -108,6 +120,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="รายการ.resx">
       <DependentUpon>รายการ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ลืมรหัสผ่าน.resx">
+      <DependentUpon>ลืมรหัสผ่าน.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="สมัครสมาชิก.resx">
+      <DependentUpon>สมัครสมาชิก.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ใบเสร็จ.resx">
       <DependentUpon>ใบเสร็จ.cs</DependentUpon>
