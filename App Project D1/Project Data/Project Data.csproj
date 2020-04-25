@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8DF36ECC-E9E1-4540-8D55-B9D125B031CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project_Data</RootNamespace>
+    <AssemblyName>Project Data</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Coffee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coffee.Designer.cs">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ยอดขาย.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ยอดขาย.Designer.cs">
+      <DependentUpon>ยอดขาย.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ยืนยันรายการ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ยืนยันรายการ.Designer.cs">
+      <DependentUpon>ยืนยันรายการ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="รายการ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="รายการ.Designer.cs">
+      <DependentUpon>รายการ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ลืมรหัสผ่าน.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ลืมรหัสผ่าน.Designer.cs">
+      <DependentUpon>ลืมรหัสผ่าน.cs</DependentUpon>
+    </Compile>
+    <Compile Include="สมัครสมาชิก.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="สมัครสมาชิก.Designer.cs">
+      <DependentUpon>สมัครสมาชิก.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ใบเสร็จ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ใบเสร็จ.Designer.cs">
+      <DependentUpon>ใบเสร็จ.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Coffee.resx">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ยอดขาย.resx">
+      <DependentUpon>ยอดขาย.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ยืนยันรายการ.resx">
+      <DependentUpon>ยืนยันรายการ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="รายการ.resx">
+      <DependentUpon>รายการ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ลืมรหัสผ่าน.resx">
+      <DependentUpon>ลืมรหัสผ่าน.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="สมัครสมาชิก.resx">
+      <DependentUpon>สมัครสมาชิก.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ใบเสร็จ.resx">
+      <DependentUpon>ใบเสร็จ.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
