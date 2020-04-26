@@ -1,0 +1,46 @@
+C:\Users\User\Desktop\Pro\Project Data\Project Data\bin\Debug\Project Data.exe.config
+C:\Users\User\Desktop\Pro\Project Data\Project Data\bin\Debug\Project Data.exe
+C:\Users\User\Desktop\Pro\Project Data\Project Data\bin\Debug\Project Data.pdb
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project_Data.Form1.resources
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project_Data.Form2.resources
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project_Data.Properties.Resources.resources
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.exe
+C:\Users\User\Desktop\Pro\Project Data\Project Data\obj\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\bin\Debug\Project Data.exe.config
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\bin\Debug\Project Data.exe
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\bin\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.Coffee.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.รายการ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.exe
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ยอดขาย.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ยืนยันรายการ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ใบเสร็จ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.ลืมรหัสผ่าน.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.สมัครสมาชิก.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D\Project Data\obj\Debug\Project_Data.Login.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.Coffee.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.Login.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.ยอดขาย.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.ยืนยันรายการ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.รายการ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.ลืมรหัสผ่าน.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.สมัครสมาชิก.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.ใบเสร็จ.resources
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project Data.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project Data.exe
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\bin\Debug\Project Data.exe.config
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\bin\Debug\Project Data.exe
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\bin\Debug\Project Data.pdb
+C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.newรายการ.resources
