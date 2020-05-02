@@ -1,0 +1,31 @@
+<package_installation_info version="2.0">	
+<packageid>C6A73675-1604-43CA-92C0-2ED7B32CFE25</packageid> 
+  <name>IPCBox</name>
+<version>4.9.0.515</version>
+	<target_location>/IPCBox/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>IPCBox</name>
+			<assets_size>1285677</assets_size>
+			<modifiers>
+				<install_modifier>
+					   <executable_path>customhook\AdobeIPCBrokerCustomhook.exe</executable_path>
+						<arguments>
+							<argument>-uninstall</argument>
+						</arguments>
+			   </install_modifier>
+				<uninstall_modifier>
+					   <executable_path>customhook\AdobeIPCBrokerCustomhook.exe</executable_path>
+						<arguments>
+							<argument>-uninstall</argument>
+						</arguments>
+			   </uninstall_modifier>
+		    </modifiers>
+            <validation_info>
+                <validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkFkb2JlSVBDQnJva2VyLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5jdXN0b21ob29rXEFkb2JlSVBDQnJva2VyQ3VzdG9tSG9vay5leGU8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgSW5jLnt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48L1ZhbGlkYXRpb25JbmZvPg==</validation_xml>
+                <sig>I+N8eXYb3Z3sq9NI+eMvR4oVjzxYQhYdlK1jjT79YoSnnAtyNqIQ8vsegHXWFUZtqBScJC/fZ8McAnQF/QVfJriDxzDCKKTxIYoxAgBJW9RvvcTL9Bx+JuvuwfQs9s8+veTD00RTWgOFx8+p2OiOAgPyepAILHC/kD6oJF2PIrr2Aplcs+tX+ESolPJVikKrxt0/Ry4YySl3ZZFItowPN+8ucdveAA+N1GSOQqYHVLJsG77h1S1frSfCoiJa1LpDLghHfr9vpWE7jf6Hn4lTckPdp4xDzPVJ39ORAZz4RW1hUbuK3eyfFUzz06ETeP9Oju+pi6rs1VX307js8Hxt5OAcdBzt5VrtFqbAS0RKPhgeIeYiz7EI0p64uN+2cZKm66OTfj3vdeV0CfbGkBXlfTCnRXrj/+BrwGMYD/XhLelqmDDPkndgJnGHi/urV1u4dOO0CNbTi45r2NJO1PdflgWjXSCH3s4gD03YgTRuY85qGQ5SU8Ye6p9cZsshZDHI</sig>
+            </validation_info>
+        </pimaInfo>
+    </packages>
+</package_installation_info>
