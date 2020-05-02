@@ -44,3 +44,21 @@ C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\bin\De
 C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\bin\Debug\Project Data.exe
 C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\bin\Debug\Project Data.pdb
 C:\Users\User\Desktop\PROJECT_DATABASE_SYSTEM\App Project D1\Project Data\obj\Debug\Project_Data.newรายการ.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\bin\Debug\Project Data.exe.config
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\bin\Debug\Project Data.exe
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\bin\Debug\Project Data.pdb
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project Data.csprojAssemblyReference.cache
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.Coffee.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.newรายการ.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.Login.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.Properties.Resources.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.ยอดขาย.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.ยืนยันรายการ.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.รายการ.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.ลืมรหัสผ่าน.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.สมัครสมาชิก.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project_Data.ใบเสร็จ.resources
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project Data.csproj.GenerateResource.cache
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project Data.csproj.CoreCompileInputs.cache
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project Data.exe
+C:\Users\iHAVECPU\Downloads\โปรเจค2.2\App Project D2\Project Data\obj\Debug\Project Data.pdb

@@ -138,7 +138,7 @@
             // 
             this.tabControl2.Controls.Add(this.tabPage1);
             this.tabControl2.Controls.Add(this.tabPage2);
-            this.tabControl2.Font = new System.Drawing.Font("Full Pack 2025", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabControl2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tabControl2.Location = new System.Drawing.Point(23, 33);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
@@ -174,11 +174,11 @@
             this.tabPage1.Controls.Add(this.pictureBox2);
             this.tabPage1.Controls.Add(this.C1);
             this.tabPage1.Controls.Add(this.pictureBox1);
-            this.tabPage1.Font = new System.Drawing.Font("28 Days Later", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabPage1.Location = new System.Drawing.Point(4, 32);
+            this.tabPage1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabPage1.Location = new System.Drawing.Point(4, 34);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(751, 793);
+            this.tabPage1.Size = new System.Drawing.Size(751, 791);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Coffee";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -186,10 +186,10 @@
             // checkBox9
             // 
             this.checkBox9.AutoSize = true;
-            this.checkBox9.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox9.Location = new System.Drawing.Point(515, 712);
             this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(109, 24);
+            this.checkBox9.Size = new System.Drawing.Size(152, 28);
             this.checkBox9.TabIndex = 145;
             this.checkBox9.Text = "คาปูชิโน่ 100 $";
             this.checkBox9.UseVisualStyleBackColor = true;
@@ -213,10 +213,10 @@
             // checkBox8
             // 
             this.checkBox8.AutoSize = true;
-            this.checkBox8.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox8.Location = new System.Drawing.Point(234, 714);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(169, 24);
+            this.checkBox8.Size = new System.Drawing.Size(233, 28);
             this.checkBox8.TabIndex = 142;
             this.checkBox8.Text = "คาราเมล มัคคิอาโต้ 120 $";
             this.checkBox8.UseVisualStyleBackColor = true;
@@ -240,10 +240,10 @@
             // checkBox7
             // 
             this.checkBox7.AutoSize = true;
-            this.checkBox7.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox7.Location = new System.Drawing.Point(26, 714);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(95, 24);
+            this.checkBox7.Size = new System.Drawing.Size(128, 28);
             this.checkBox7.TabIndex = 139;
             this.checkBox7.Text = "ลาเต้  100 $";
             this.checkBox7.UseVisualStyleBackColor = true;
@@ -267,10 +267,10 @@
             // checkBox6
             // 
             this.checkBox6.AutoSize = true;
-            this.checkBox6.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox6.Location = new System.Drawing.Point(515, 470);
             this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(120, 24);
+            this.checkBox6.Size = new System.Drawing.Size(159, 28);
             this.checkBox6.TabIndex = 136;
             this.checkBox6.Text = "เอสเพรสโซ่ 70 $";
             this.checkBox6.UseVisualStyleBackColor = true;
@@ -294,10 +294,10 @@
             // checkBox5
             // 
             this.checkBox5.AutoSize = true;
-            this.checkBox5.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox5.Location = new System.Drawing.Point(234, 467);
             this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(159, 24);
+            this.checkBox5.Size = new System.Drawing.Size(222, 28);
             this.checkBox5.TabIndex = 133;
             this.checkBox5.Text = "มัทฉะ คาเฟ่ ลาเต้ 120 $";
             this.checkBox5.UseVisualStyleBackColor = true;
@@ -306,10 +306,10 @@
             // checkBox4
             // 
             this.checkBox4.AutoSize = true;
-            this.checkBox4.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox4.Location = new System.Drawing.Point(30, 469);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(102, 24);
+            this.checkBox4.Size = new System.Drawing.Size(140, 28);
             this.checkBox4.TabIndex = 132;
             this.checkBox4.Text = "มอคค่า 100 $";
             this.checkBox4.UseVisualStyleBackColor = true;
@@ -318,10 +318,10 @@
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
-            this.checkBox3.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox3.Location = new System.Drawing.Point(515, 220);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(105, 24);
+            this.checkBox3.Size = new System.Drawing.Size(139, 28);
             this.checkBox3.TabIndex = 131;
             this.checkBox3.Text = "กาแฟดำ 60 $";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -330,10 +330,10 @@
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
-            this.checkBox2.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox2.Location = new System.Drawing.Point(265, 220);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(106, 24);
+            this.checkBox2.Size = new System.Drawing.Size(140, 28);
             this.checkBox2.TabIndex = 130;
             this.checkBox2.Text = "กาแฟสด 65 $";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -341,7 +341,7 @@
             // 
             // checkBox1
             // 
-            this.checkBox1.Font = new System.Drawing.Font("TH Chakra Petch", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox1.Location = new System.Drawing.Point(18, 220);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(122, 24);
@@ -393,6 +393,7 @@
             this.pictureBox3.Size = new System.Drawing.Size(174, 170);
             this.pictureBox3.TabIndex = 102;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // C2
             // 
@@ -418,11 +419,13 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::Project_Data.Properties.Resources.โอวัลติน;
             this.pictureBox1.Location = new System.Drawing.Point(18, 44);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(174, 170);
             this.pictureBox1.TabIndex = 94;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // tabPage2
             // 
@@ -453,11 +456,11 @@
             this.tabPage2.Controls.Add(this.pictureBox17);
             this.tabPage2.Controls.Add(this.B1);
             this.tabPage2.Controls.Add(this.pictureBox18);
-            this.tabPage2.Font = new System.Drawing.Font("28 Days Later", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabPage2.Location = new System.Drawing.Point(4, 32);
+            this.tabPage2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabPage2.Location = new System.Drawing.Point(4, 34);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(751, 793);
+            this.tabPage2.Size = new System.Drawing.Size(751, 791);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Bakery";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -465,10 +468,10 @@
             // checkBox18
             // 
             this.checkBox18.AutoSize = true;
-            this.checkBox18.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox18.Location = new System.Drawing.Point(451, 711);
             this.checkBox18.Name = "checkBox18";
-            this.checkBox18.Size = new System.Drawing.Size(239, 76);
+            this.checkBox18.Size = new System.Drawing.Size(258, 100);
             this.checkBox18.TabIndex = 172;
             this.checkBox18.Text = " \r\nSugar-Free Pumpkin Pie\r\n฿ 125\r\n\r\n";
             this.checkBox18.UseVisualStyleBackColor = true;
@@ -477,10 +480,10 @@
             // checkBox17
             // 
             this.checkBox17.AutoSize = true;
-            this.checkBox17.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox17.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox17.Location = new System.Drawing.Point(248, 725);
             this.checkBox17.Name = "checkBox17";
-            this.checkBox17.Size = new System.Drawing.Size(140, 40);
+            this.checkBox17.Size = new System.Drawing.Size(147, 52);
             this.checkBox17.TabIndex = 171;
             this.checkBox17.Text = "Banoffee Pie\r\n฿ 130";
             this.checkBox17.UseVisualStyleBackColor = true;
@@ -489,10 +492,10 @@
             // checkBox16
             // 
             this.checkBox16.AutoSize = true;
-            this.checkBox16.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox16.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox16.Location = new System.Drawing.Point(17, 725);
             this.checkBox16.Name = "checkBox16";
-            this.checkBox16.Size = new System.Drawing.Size(157, 40);
+            this.checkBox16.Size = new System.Drawing.Size(166, 52);
             this.checkBox16.TabIndex = 170;
             this.checkBox16.Text = "Cinnamon Roll\r\n฿ 75";
             this.checkBox16.UseVisualStyleBackColor = true;
@@ -501,10 +504,10 @@
             // checkBox15
             // 
             this.checkBox15.AutoSize = true;
-            this.checkBox15.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox15.Location = new System.Drawing.Point(488, 471);
             this.checkBox15.Name = "checkBox15";
-            this.checkBox15.Size = new System.Drawing.Size(179, 40);
+            this.checkBox15.Size = new System.Drawing.Size(184, 52);
             this.checkBox15.TabIndex = 169;
             this.checkBox15.Text = "Red Velvet Cake\r\n ฿ 140";
             this.checkBox15.UseVisualStyleBackColor = true;
@@ -513,10 +516,10 @@
             // checkBox14
             // 
             this.checkBox14.AutoSize = true;
-            this.checkBox14.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox14.Location = new System.Drawing.Point(251, 471);
             this.checkBox14.Name = "checkBox14";
-            this.checkBox14.Size = new System.Drawing.Size(137, 40);
+            this.checkBox14.Size = new System.Drawing.Size(125, 52);
             this.checkBox14.TabIndex = 168;
             this.checkBox14.Text = "Italian Roll\r\n฿ 75";
             this.checkBox14.UseVisualStyleBackColor = true;
@@ -525,10 +528,10 @@
             // checkBox13
             // 
             this.checkBox13.AutoSize = true;
-            this.checkBox13.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox13.Location = new System.Drawing.Point(13, 471);
             this.checkBox13.Name = "checkBox13";
-            this.checkBox13.Size = new System.Drawing.Size(132, 40);
+            this.checkBox13.Size = new System.Drawing.Size(129, 52);
             this.checkBox13.TabIndex = 167;
             this.checkBox13.Text = "Pana Cotta\r\n$95";
             this.checkBox13.UseVisualStyleBackColor = true;
@@ -537,10 +540,10 @@
             // checkBox12
             // 
             this.checkBox12.AutoSize = true;
-            this.checkBox12.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox12.Location = new System.Drawing.Point(488, 218);
             this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(198, 40);
+            this.checkBox12.Size = new System.Drawing.Size(190, 52);
             this.checkBox12.TabIndex = 166;
             this.checkBox12.Text = "Pastel Party Cake\r\n฿ 125\r\n";
             this.checkBox12.UseVisualStyleBackColor = true;
@@ -549,10 +552,10 @@
             // checkBox11
             // 
             this.checkBox11.AutoSize = true;
-            this.checkBox11.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold);
+            this.checkBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.checkBox11.Location = new System.Drawing.Point(264, 218);
             this.checkBox11.Name = "checkBox11";
-            this.checkBox11.Size = new System.Drawing.Size(109, 40);
+            this.checkBox11.Size = new System.Drawing.Size(122, 52);
             this.checkBox11.TabIndex = 165;
             this.checkBox11.Text = "macarone\r\n฿ 80";
             this.checkBox11.UseVisualStyleBackColor = true;
@@ -561,10 +564,10 @@
             // checkBox10
             // 
             this.checkBox10.AutoSize = true;
-            this.checkBox10.Font = new System.Drawing.Font("Chlorinar", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox10.Location = new System.Drawing.Point(17, 218);
             this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(154, 40);
+            this.checkBox10.Size = new System.Drawing.Size(155, 52);
             this.checkBox10.TabIndex = 164;
             this.checkBox10.Text = " Cheese Pie  \r\n ฿ 140\r\n";
             this.checkBox10.UseVisualStyleBackColor = true;
@@ -707,7 +710,7 @@
             // 
             // button3
             // 
-            this.button3.Font = new System.Drawing.Font("TH Charmonman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Location = new System.Drawing.Point(882, 893);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(187, 46);
@@ -719,7 +722,7 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.textBox1);
-            this.groupBox1.Font = new System.Drawing.Font("TH Charm of AU", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.groupBox1.Location = new System.Drawing.Point(798, 179);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(374, 541);
@@ -729,7 +732,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("TH Fah kwang", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(18, 46);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -737,10 +740,11 @@
             this.textBox1.Size = new System.Drawing.Size(337, 472);
             this.textBox1.TabIndex = 43;
             this.textBox1.Text = "\r\n\r\n\r\n\r\n\r\n\r\n";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("TH Charmonman", 14.25F, System.Drawing.FontStyle.Bold);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
             this.button1.Location = new System.Drawing.Point(882, 749);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(187, 46);
@@ -751,7 +755,7 @@
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("TH Charmonman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(103, 893);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(187, 46);
@@ -762,7 +766,7 @@
             // 
             // button4
             // 
-            this.button4.Font = new System.Drawing.Font("TH Charmonman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.Location = new System.Drawing.Point(460, 903);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(187, 46);
@@ -773,7 +777,7 @@
             // 
             // button5
             // 
-            this.button5.Font = new System.Drawing.Font("TH Charmonman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(882, 816);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(187, 46);

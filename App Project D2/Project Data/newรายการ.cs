@@ -12,6 +12,7 @@ namespace Project_Data
 {
     public partial class newรายการ : Form
     {
+        
         public newรายการ()
         {
             InitializeComponent();
@@ -465,7 +466,26 @@ namespace Project_Data
             this.Visible = false;
             ใบเสร็จ form1 = new ใบเสร็จ();
             form1.Visible = true;
+            ใบเสร็จ.Show();
+            ใบเสร็จ.textBox1.Text = textBox6.Text;
+            ใบเสร็จ.textBox6.Text = textBox6.Text;
 
+
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }

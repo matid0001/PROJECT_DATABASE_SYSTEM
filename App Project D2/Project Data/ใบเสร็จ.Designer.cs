@@ -93,6 +93,7 @@
             this.textBox6.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBox6.Size = new System.Drawing.Size(233, 287);
             this.textBox6.TabIndex = 0;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // textBox1
             // 
@@ -165,6 +166,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(141, 27);
             this.textBox3.TabIndex = 8;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // label4
             // 
